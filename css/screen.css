@@ -54,7 +54,7 @@
 .hero {
   position: relative;
   min-height: 300px;
-  height: 520px;
+  height: 560px;
   display: table;
   width: 100%;
   margin: 0;
@@ -113,7 +113,8 @@
 }
 
 .story {
-  height: 320px;
+  /*height: 240px;*/
+  height: 150px;
   text-align: center;
 }
 
@@ -223,4 +224,22 @@
 .screenshot-image {
   max-width: 800px;
   width: 100%;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+  padding: 0;
+}
+
+.hide {
+  display: none;
+}
+
+.job-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.job-description {
+
 }
