@@ -1,0 +1,226 @@
+.bg-akohub {
+  background-color: #CA5237;
+}
+
+.text-akohub {
+  color: #CA5237;
+}
+
+.text-akohub:hover {
+  color: #CA5237;
+}
+
+.btn-round {
+  border-radius: 50px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.btn-akohub.active, .btn-akohub:active, .show>.btn-akohub.dropdown-toggle {
+  background-color: #CA5237;
+  background-image: none;
+  border-color: #CA5237;
+}
+
+.btn-akohub {
+  color: #fff;
+  background-color: #CA5237;
+  border-color: #CA5237;
+}
+
+.btn-akohub:hover {
+  color: #fff;
+  background-color: #C15F46;
+  border-color: #C15F46;
+}
+
+.btn-outline-akohub {
+  color: #CA5237;
+  background-color: transparent;
+  background-image: none;
+  border-color: #CA5237;
+}
+
+.btn-outline-akohub:hover {
+  color: #fff;
+  background-color: #CA5237;
+  border-color: #CA5237;
+}
+
+.header {
+  margin-bottom: 54px;
+}
+
+.hero {
+  position: relative;
+  min-height: 300px;
+  height: 520px;
+  display: table;
+  width: 100%;
+  margin: 0;
+  border-radius: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.hero-title {
+  color: #000;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1em;
+}
+
+.product-title {
+  color: #000;
+  font-weight: bold;
+  font-size: 2.4rem;
+  line-height: 1em;
+}
+
+.section {
+  border-radius: 0;
+}
+
+.description {
+  font-size: 1.2rem;
+}
+
+.hero-inner {
+  display: table-cell;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar-brand>img {
+  height: 32px;
+}
+
+.product-image {
+  max-width: 200px;
+  height: 28px;
+  margin-bottom: 8px;
+}
+
+.retargeting-title {
+  color: #00BBA8;
+}
+
+.chatbot-title {
+  color: #0084FF;
+}
+
+.story {
+  height: 320px;
+  text-align: center;
+}
+
+.story>img {
+  width: 80%;
+}
+
+.post {
+  margin-bottom: 2rem;
+}
+
+.post-title {
+  margin-bottom: 1rem;
+}
+
+.post-title>a{
+  color: #222;
+}
+
+.post-content {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.5em;
+}
+
+.post-container {
+  max-width: 700px;
+  margin: 2rem auto;
+}
+
+.post-container img {
+  max-width: 100%;
+}
+
+.share {
+  margin-top: 2rem;
+}
+
+.site-footer {
+  font-size: 85%;
+  text-align: center;
+}
+
+.text-ako-retargeting {
+  color: #00BBA8;
+}
+
+.btn-ako-retargeting {
+  color: #fff;
+  background-color: #00BBA8;
+  border-color: #00BBA8;
+}
+
+.btn-ako-retargeting:hover {
+  color: #fff;
+  background-color: #1AA796;
+  border-color: #1AA796;
+}
+
+.text-ako-chatbot {
+  color: #0084FF;
+}
+
+.btn-ako-chatbot {
+  color: #fff;
+  background-color: #0084FF;
+  border-color: #0084FF;
+}
+
+.btn-ako-chatbot:hover {
+  color: #fff;
+  background-color: #0084FF;
+  border-color: #0084FF;
+}
+
+.product-logo {
+  height: 44px;
+  margin-bottom: 1rem;
+}
+
+.feature-title {
+  margin-top: 1rem;
+}
+
+.plan-price {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.plan-suggestion {
+  font-weight: bold;
+}
+
+.plan-description {
+  font-size: .8rem;
+}
+
+.plan-list {
+  padding-left: 2rem;
+  font-size: .9rem;
+}
+
+.product-shopify-logo {
+  height: 40px;
+}
+
+.screenshot-image {
+  max-width: 800px;
+  width: 100%;
+}
