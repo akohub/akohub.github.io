@@ -135,22 +135,41 @@
 }
 
 .post-content {
-  text-align: justify;
-  text-justify: inter-word;
   line-height: 1.5em;
 }
 
+.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+  margin-top: 1.2em;
+  margin-bottom: .6em;
+}
+
+.post-content p {
+  font-family: Cambria,"Times New Roman",Times,serif;
+  font-size: 20px;
+  font-weight: lighter;
+  line-height: 1.58;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 21px;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  color: #494949;
+}
+
+.post-content a, .post-content a:link, .post-content a:visited {
+  color: #383838;
+  text-decoration: underline;
+}
+
 .post-container {
-  max-width: 700px;
+  max-width: 720px;
   margin: 2rem auto;
 }
 
 .post-container img {
   max-width: 100%;
-}
-
-.share {
-  margin-top: 2rem;
+  display: block;
+  margin: 2.4rem auto;
 }
 
 .site-footer {
@@ -240,6 +259,38 @@
   margin: 0 auto;
 }
 
+.post-excerpt {
+  color: #5f5f5f;
+}
+
 .job-description {
 
+}
+
+.hidden {
+  display: none;
+}
+
+.share {
+  margin-top: 2rem;
+  text-align: right;
+}
+
+.share a:link, .share a:hover, .share a:visited{
+  color: #ccc;
+  text-decoration: none;
+}
+
+.share a:hover{
+  color: #333;
+  text-decoration: none;
+}
+
+.share i{
+  font-size: 1.5rem;
+}
+
+.share-title {
+  font-size: 1rem;
+  color: #222;
 }
